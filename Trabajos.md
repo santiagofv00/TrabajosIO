@@ -210,3 +210,6 @@ $Min Z = \begin{bmatrix}
 					\end{bmatrix}$
 #### Restricciones:
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIyODg4NjEzNF19
+-->
