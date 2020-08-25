@@ -230,9 +230,9 @@ D	Sin restricciones		20
 Para estos tornillos la capacidad de la instalación y los costos de fabricación se indican a continuación.
 
 
-
+![enter image description here](https://imgur.com/a/X4WG8HE)
 Cual sería la producción que debe programar este fabricante para obtener la ganancia máxima, suponiendo que puede vender todo lo que fabrique?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3MzM5MjY0MiwxMjI4ODg2MTM0XX0=
+eyJoaXN0b3J5IjpbMTQ5NDY3NTgzLDEyMjg4ODYxMzRdfQ==
 -->
