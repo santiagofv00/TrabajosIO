@@ -209,105 +209,30 @@ $Min Z = \begin{bmatrix}
 					1 
 					\end{bmatrix}$
 #### Restricciones:
-<![endif]-->
+31.	Un cierto fabricante de tornillos, ha constatado la existencia de un mercado para paquetes de tornillos a granel en distintos tamaños.  Los datos de la investigación de mercados han demostrado que se podrían vender cuatro clases de paquetes con mezclas de los tres tipos de tornillos (1, 2 y 3), siendo los de mayor aceptación por el público.  Los datos de la investigación realizada indicaron las especificaciones y los precios de venta siguientes:
 
-<![if !supportLists]>**1.** <![endif]>Un cierto fabricante de tornillos, ha constatado la existencia de un mercado para paquetes de tornillos a granel en distintos tamaños.  Los datos de la investigación de mercados han demostrado que se podrían vender cuatro clases de paquetes con mezclas de los tres tipos de tornillos (1, 2 y 3), siendo los de mayor aceptación por el público.  Los datos de la investigación realizada indicaron las especificaciones y los precios de venta siguientes:
-
-_Mezcla de Tornillos_
-
-_Especificaciones_
-
-_Precio de venta_
-
-_($/kg)_
-
-A
-
-No menos del 40%
-
-Tipo 1
-
-60
-
-No más del 20%
-
-Tipo 2
-
-Cualquier cantidad
-
-Tipo 3
-
-B
-
-No menos del 20%
-
-Tipo 1
-
-25
-
-No más del 40%
-
-Tipo 2
-
-Cualquier cantidad
-
-Tipo 3
-
-C
-
-No menos del 50%
-
-Tipo 1
-
-35
-
-No más del 10%
-
-Tipo 2
-
-Cualquier cantidad
-
-Tipo 3
-
-D
-
-Sin restricciones
-
-20
+Mezcla de Tornillos	Especificaciones	Precio de venta
+			($/kg)
+A	No menos del 40%	Tipo 1	60
+	No más del 20%	Tipo 2	
+	Cualquier cantidad	Tipo 3	
+			
+B	No menos del 20%	Tipo 1	25
+	No más del 40%	Tipo 2	
+	Cualquier cantidad	Tipo 3	
+			
+C	No menos del 50%	Tipo 1	35
+	No más del 10%	Tipo 2	
+	Cualquier cantidad	Tipo 3	
+			
+D	Sin restricciones		20
 
 Para estos tornillos la capacidad de la instalación y los costos de fabricación se indican a continuación.
 
-_Tipo de_
 
-_Capacidad Máxima de_
-
-_Costo fabricación_
-
-_Tornillo_
-
-_Producción (Kg)_
-
-_($/Kg)_
-
-1
-
-100
-
-50
-
-2
-
-100
-
-30
-
-3
-
-60
-
-18
 
 Cual sería la producción que debe programar este fabricante para obtener la ganancia máxima, suponiendo que puede vender todo lo que fabrique?
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQ5OTg2MTMsMTIyODg4NjEzNF19
+eyJoaXN0b3J5IjpbLTc3MzM5MjY0MiwxMjI4ODg2MTM0XX0=
 -->
